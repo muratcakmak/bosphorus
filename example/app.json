@@ -1,0 +1,22 @@
+{
+  "name": "bosphorus-example",
+  "displayName": "Bosphorus Example",
+  "expo": {
+    "name": "bosphorus-example",
+    "slug": "bosphorus-example",
+    "description": "Example app for bosphorus",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
