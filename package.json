@@ -37,13 +37,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://www.github.com/Clubroom/bosphorus",
+  "repository": "https://www.github.com/muratcakmak/bosphorus",
   "author": "Oguzhan Cakmak <oguzhanmc@gmail.com> (http://www.omc345.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://www.github.com/Clubroom/bosphorus/issues"
+    "url": "https://github.com/muratcakmak/bosphorus"
   },
-  "homepage": "https://www.github.com/Clubroom/bosphorus#readme",
+  "homepage": "https://www.github.com/muratcakmak/bosphorus#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
