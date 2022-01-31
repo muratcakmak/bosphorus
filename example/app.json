@@ -1,0 +1,22 @@
+{
+  "name": "react-native-bosphorus-example",
+  "displayName": "Bosphorus Example",
+  "expo": {
+    "name": "react-native-bosphorus-example",
+    "slug": "react-native-bosphorus-example",
+    "description": "Example app for react-native-bosphorus",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
