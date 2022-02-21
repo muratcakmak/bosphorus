@@ -5,17 +5,24 @@ Component Library
 ## Installation
 
 ```sh
-npm install bosphorus
+yarn install bosphorus
+```
+
+### Web
+
+```package.json
+  "alias": {
+    "react-native": "react-native-web"
+  }
 ```
 
 ## Usage
 
 ```js
-import { multiply } from "bosphorus";
+import { Button } from "bosphorus";
 
 // ...
-
-const result = await multiply(3, 7);
+<Button title="Press" />
 ```
 
 ## Contributing

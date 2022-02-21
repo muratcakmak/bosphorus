@@ -1,7 +1,6 @@
 import React from 'react';
 import { Button as RNButton } from 'react-native';
-
-interface ButtonProps {
+export interface ButtonProps {
   title: string;
 }
 
